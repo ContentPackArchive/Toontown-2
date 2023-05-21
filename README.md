@@ -1,6 +1,6 @@
 # Toontown-2
 
-A Toontown Online Content Pack made by ZillyLB.
+A Toontown Online Content Pack made by ZillyLB. This Content Pack is currently not fully functional with Toontown Rewritten.
 
 Original description:
 
